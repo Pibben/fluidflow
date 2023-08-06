@@ -20,5 +20,8 @@
 * https://www.youtube.com/watch?v=alhpH6ECFvQ  Coding Challenge #132: Fluid Simulation
 * http://graphics.cs.cmu.edu/nsp/course/15-464/Fall09/papers/StamFluidforGames.pdf
 * https://cg.informatik.uni-freiburg.de/intern/seminar/gridFluids_fluid_flow_for_the_rest_of_us.pdf
+  * https://pages.cs.wisc.edu/~chaol/data/cs777/stam-stable_fluids.pdf
+  * https://www.ljll.math.upmc.fr/~frey/papers/applications/Foster%20N.,%20Practical%20animation%20of%20liquids.pdf
+  * https://www.cc.gatech.edu/people/home/turk/my_papers/melt.pdf
 ## ML
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M Data Driven Fluid Dynamics
