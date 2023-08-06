@@ -23,5 +23,12 @@
   * https://pages.cs.wisc.edu/~chaol/data/cs777/stam-stable_fluids.pdf
   * https://www.ljll.math.upmc.fr/~frey/papers/applications/Foster%20N.,%20Practical%20animation%20of%20liquids.pdf
   * https://www.cc.gatech.edu/people/home/turk/my_papers/melt.pdf
+* https://softologyblog.wordpress.com/2019/02/28/jos-stams-fluid-simulations-in-3d/
+  * https://notes.rcrnstn.net/code/C/real-time-fluid-dynamics-for-games/
+  * https://github.com/BlainMaguire/3dfluid
+  * https://web.stanford.edu/class/cs237d/smoke.pdf Visual Simulation of Smoke
+  * https://cgl.ethz.ch/teaching/former/imagesynthesis_06/miniprojects/p3/ Rendering smoke and fire in real-time
+* https://www.youtube.com/watch?v=alhpH6ECFvQ  Coding Challenge #132: Fluid Simulation 
+  * https://github.com/CodingTrain/Coding-Challenges/tree/main/132_FluidSimulation/Processing/CC_132_FluidSimulation
 ## ML
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M Data Driven Fluid Dynamics
