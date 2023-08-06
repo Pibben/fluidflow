@@ -8,7 +8,8 @@
 * https://cg.informatik.uni-freiburg.de/intern/seminar/gridFluids_fluid_flow_for_the_rest_of_us.pdf
 * https://doc.cfd.direct/notes/cfd-general-principles/
 * http://servidor.demec.ufpr.br/CFD/bibliografia/Ferziger%20Peric%20-%20Computational%20Methods%20for%20Fluid%20Dynamics,%203rd%20Ed%20-%202002.pdf
-* https://www.youtube.com/playlist?list=PLE4jpqcRJiBpODH_ksfgJmKsSc9-CN3_A 12 Steps to Navier-Stokes in Python 
+* https://www.youtube.com/playlist?list=PLE4jpqcRJiBpODH_ksfgJmKsSc9-CN3_A 12 Steps to Navier-Stokes in Python
+  * https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
 ## LS Solvers
 * https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf
 ## Simulation
